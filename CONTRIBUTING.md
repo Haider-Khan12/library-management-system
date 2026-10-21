@@ -1,3 +1,3 @@
      # Contributing
      ## Placeholder
-     Guidelines coming soon.
+     Guidelines will be added by the team.
